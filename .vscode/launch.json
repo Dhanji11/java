@@ -1,0 +1,91 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Priorityqueue",
+            "request": "launch",
+            "mainClass": "Priorityqueue",
+            "projectName": "java_9a026289"
+        },
+        {
+            "type": "java",
+            "name": "Launch consecutiveseq",
+            "request": "launch",
+            "mainClass": "consecutiveseq",
+            "projectName": "java_9a026289"
+        },
+        {
+            "type": "java",
+            "name": "Launch comelements",
+            "request": "launch",
+            "mainClass": "comelements",
+            "projectName": "java_9a026289"
+        },
+        {
+            "type": "java",
+            "name": "Launch frequencychar",
+            "request": "launch",
+            "mainClass": "frequencychar",
+            "projectName": "java_9a026289"
+        },
+        {
+            "type": "java",
+            "name": "Launch hashmap1",
+            "request": "launch",
+            "mainClass": "hashmap1",
+            "projectName": "java_9a026289"
+        },
+        {
+            "type": "java",
+            "name": "Launch dectobin",
+            "request": "launch",
+            "mainClass": "dectobin",
+            "projectName": "java_9a026289"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "java_9a026289"
+        },
+        {
+            "type": "java",
+            "name": "Launch conversionbinarytochoice",
+            "request": "launch",
+            "mainClass": "conversionbinarytochoice",
+            "projectName": "java_9a026289"
+        },
+        {
+            "type": "java",
+            "name": "Launch Numfrequency",
+            "request": "launch",
+            "mainClass": "Numfrequency",
+            "projectName": "java_9a026289"
+        },
+        {
+            "type": "java",
+            "name": "Launch npr",
+            "request": "launch",
+            "mainClass": "npr",
+            "projectName": "java_9a026289"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Npr",
+            "request": "launch",
+            "mainClass": "Npr",
+            "projectName": "java_9a026289"
+        }
+    ]
+}
